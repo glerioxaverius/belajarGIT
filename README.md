@@ -12,8 +12,8 @@ Daftar perintah GiT
 1. git clone
 2. cd
 3. checkout
-4.touch
-5.add
-6.commit -m
-7.merge
-8.push
+4. touch
+5. add
+6. commit -m
+7. merge
+8. push
